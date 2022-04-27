@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+main {
+  border: 1px solid rgba(5, 0, 0, 0.918);
+  margin: 2rem;
+  height: 90vh;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  position: relative;
+}
+
+header .section img {
+  width: 4rem; 
+  padding-left: 1.5rem;
+}
+
+.logo img{
+  width: 6rem;
+}
+
+.section {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+
+button.newitem {
+  padding: 0.8rem;
+  width: 10rem;
+}
+
+.divider-1 {
+  height: 1px;
+  background: black;
+}
+main h1 {
+  text-align: center;
+  margin-top: -1rem;
+}
+
+.drinks{
+  text-align: center;
+  margin-top: 5rem;
+
+}
+.drinks img {
+  width: 20rem;
+}
+.drinks h1 {
+  margin-bottom: 2rem;
+}
+
+.drinks li {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+
+main button {
+  padding: 1rem;
+  width: 10rem;
+}

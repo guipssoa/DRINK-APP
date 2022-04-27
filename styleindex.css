@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+main {
+  border: 1px solid rgba(5, 0, 0, 0.918);
+  margin: 2rem;
+  height: 90vh;
+}
+
+header {
+  text-align: end;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+header img {
+  width: 4rem; 
+}
+
+main h1 {
+  text-align: center;
+  margin-top: 12rem;
+}
+
+.login{
+  text-align: center;
+  margin-top: 5rem;
+}
+
+main button {
+  padding: 1.5rem;
+  width: 15rem;
+}
